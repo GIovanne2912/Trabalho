@@ -8,6 +8,7 @@
 //Giovanne Pierazolli Sant'Anna Marconcin
 //1912885
 
+
 struct Cadastro
 {
     int sit;
