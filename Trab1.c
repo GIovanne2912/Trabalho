@@ -5,6 +5,9 @@
 #define MAX1 50
 #define MAXcad 10
 
+//Giovanne Pierazolli Sant'Anna Marconcin
+//1912885
+
 struct Cadastro
 {
     int sit;
@@ -210,6 +213,7 @@ void at4(cad c[]){
     flush_in();
     printf("Digite o CPF:\n");
     gets(c[id].cpf);
+
 
 
     c[id].sit=1;
